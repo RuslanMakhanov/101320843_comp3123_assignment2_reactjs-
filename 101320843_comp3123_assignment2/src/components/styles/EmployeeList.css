@@ -1,0 +1,63 @@
+.employee-management-app {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20px;
+  }
+  
+  .add-btn {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 20px;
+    float: right;
+  }
+  
+  .employee-list h2 {
+    margin-bottom: 15px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  table, th, td {
+    border: 1px solid #dee2e6;
+  }
+  
+  th {
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+  }
+  
+  td {
+    padding: 10px;
+  }
+  
+  .action-btn {
+    padding: 5px 15px;
+    margin: 0 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .update {
+    background-color: #ffc107;
+    color: black;
+  }
+  
+  .delete {
+    background-color: #dc3545;
+    color: white;
+  }
+  
+  .view {
+    background-color: #17a2b8;
+    color: white;
+  }
+  
